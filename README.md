@@ -1,4 +1,4 @@
-# etcder - GUI for etcd
+# Etcder - GUI for etcd
 A cross-platform etcd Desktop Manager that both support Mac and Windows
 
 # Main view
